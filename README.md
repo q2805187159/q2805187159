@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @q2805187159
-- 👀 I’m interested in eat
-- 🌱 I’m currently learning java,web
+- 👋 Hi, I’m @铁甲勇士宋小宝
 - 📫 How to reach me ,  email 2805187159@qq.com
 
 <!---
